@@ -378,4 +378,4 @@ with tab_ruptura:
     render_ruptura(limites)
 
 st.divider()
-st.caption("MODO DEMONSTRAÇÃO: todos os SKUs, saldos, NFs, datas e resultados são fictícios. Nenhuma conexão externa é"
+st.caption("MODO DEMONSTRAÇÃO: todos os SKUs, saldos, NFs, datas e resultados são fictícios. Nenhuma conexão externa é")
