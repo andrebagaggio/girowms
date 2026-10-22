@@ -1,5 +1,0 @@
-streamlit>=1.35
-pandas>=2.0
-pymssql
-requests>=2.31
-urllib3>=1.26
